@@ -14,7 +14,7 @@ app.use(cors());
 // Habilitar express.json
 app.use(express.json({ extended: true }));
 
-//puerto de la app
+//puerto de la apppp
 const port = process.env.PORT || 4000;
 
 //Importar rutas
